@@ -12,6 +12,7 @@ Unordered list of the things to learn
 - Github
 - Javascript
 - Python
+  
 Ordered list of steps to make a commit in Git
 1. Add a README.md file to the staging area
 2. Confirm the file is stage
