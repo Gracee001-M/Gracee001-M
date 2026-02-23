@@ -13,11 +13,13 @@ https://Gracee001-M.github.io.
   |-----|-------|----|
   |Git|Track code changes,create branches,and merge projects|[git](https://git-scm.com)|
   |Code Editors|Help developers write,edit,manage,and upload code|[Visual Code](https://visualstudio.com)|
+  
   [x] Github
   [x] Visual Studio Code
   [ ] Python
   [ ] Javascript
   [ ] CSS Code
+  
   ```python
 print("Hello, world!")
 ```
