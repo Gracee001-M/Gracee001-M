@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**Gracee001-M/Gracee001-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Library and Information Science at Kenyatta University. 
+- I'm interested in Computer Skills specifically programming languages and coding.
+  
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Javascript
+- Html
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Career Paths in Technology.
+
+## How to Reach Me
+- Email:gracemacharia031@gmail.com.
+- LinkedIn:Grace Macharia.
