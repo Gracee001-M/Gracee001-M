@@ -5,22 +5,23 @@ https://Gracee001-M.github.io.
 - Github
 - Javascript
 - Python
- 1. Add a README.md file to the staging area
- 2. Confirm the file is staged
- 3. Now commit the staged file,and include a message that describes the change you made
+  
+1. Add a README.md file to the staging area
+2. Confirm the file is stage
+3. Now commit the staged file,and include a message that describes the change you made
 
-  |Tools|Purpose|Link|
-  |-----|-------|----|
-  |Git|Track code changes,create branches,and merge projects|[git](https://git-scm.com)|
-  |Code Editors|Help developers write,edit,manage,and upload code|[Visual Code](https://visualstudio.com)|
+ |Tools|Purpose|Link|
+ |-----|-------|----|
+ |Git|Track code changes,create branches,and merge projects|[git](https://git-scm.com)|
+ |Code Editors|Help developers write,edit,manage,and upload code|[Visual Code](https://visualstudio.com)|
   
-  [x] Github
-  [x] Visual Studio Code
-  [ ] Python
-  [ ] Javascript
-  [ ] CSS Code
+ [x] Github
+ [x] Visual Studio Code
+ [ ] Python
+ [ ] Javascript
+ [ ] CSS Code
   
-  ```python
+```python
 print("Hello, world!")
 ```
 >We learn by doing
