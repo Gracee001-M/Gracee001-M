@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Macharia Grace Wanjiru
 
 ## About Me
 - I'm currently learning Library and Information Science at Kenyatta University. 
