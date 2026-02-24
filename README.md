@@ -1,7 +1,8 @@
 # Hi, I'm Macharia Grace Wanjiru
 
 ## About Me
-- I'm currently learning Library and Information Science at Kenyatta University. 
+- I'm currently pursuing Library and Information Science at Kenyatta University.
+- Am also studying Computer programming . 
 - I'm interested in Computer Skills specifically programming languages and coding.
   
 
