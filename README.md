@@ -2,7 +2,7 @@
 
 ## About Me
 - I'm currently pursuing Library and Information Science at Kenyatta University.
-- Am also studying Computer programming . 
+- Am a passionate programmer. 
 - I'm interested in Computer Skills specifically programming languages and coding.
   
 
