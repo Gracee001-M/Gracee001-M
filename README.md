@@ -16,6 +16,7 @@
 ## 🏠 Home
 Welcome to my GitHub profile!  
 I am a student currently studying Computer Programming at IYF We Can Academy.
+
 I am passionate about **technology, coding, and solving real-world problems using software solutions**.
 
 ---
@@ -96,13 +97,5 @@ You can reach me through:
 📧 Email: **gracemacharia031@gmail.com**  
 💼 LinkedIn: **Grace Macharia**  
 🌍 GitHub: [Gracee001-M](https://github.com/Gracee001-M)
-
----
-
-## 🐍 Contribution Snake (Optional Cool Feature)
-
-![snake gif](https://github.com/Gracee001-M/Gracee001-M/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
